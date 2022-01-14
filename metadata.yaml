@@ -1,11 +1,16 @@
 _repo: A-poem-on-the-earthquake-at-Lisbon_67011
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67011-h/images/cover.jpg
 creator:
   author:
     agent_name: Biddolf, John‏
     gutenberg_agent_id: '53971'
     url: http://www.gutenberg.org/2009/agents/53971
 description: 'Begins: Calm was the sky, the sun severely bright.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67011#A-poem-on-the-earthquake-at-Lisbon
 gutenberg_issued: '2021-12-25'
 identifiers:
   gutenberg: '67011'
